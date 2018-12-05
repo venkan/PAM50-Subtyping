@@ -1,5 +1,7 @@
 # PAM50-Subtyping
 
+The Code for PAM50-Subtyping is downloaded from * [PAM50-Subtyping CODE: Check the joelsparker comment](https://www.biostars.org/p/77590/)
+
 The 'bioclassifier_R' folder contains all the functions and fixed parameters.  You should not need to change anything in this folder, but there are some annotation files, the centroids file, and related information that you may want to be familiar with. 
 
 The directory named 'bioclassifier_example' contains two files - an example input data matrix, and an example of the parameter file to run the algorithm.  All changes should be made to this R file, and I have labeled the variables accordingly.  As a first test, simply fill in the correct directory paths and source the file.  The output of this run should look like the set of files in the 'sampleOutput' sub-folder.
