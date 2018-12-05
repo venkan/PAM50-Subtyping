@@ -1,6 +1,6 @@
 # PAM50-Subtyping
 
-The Code for PAM50-Subtyping is downloaded from * [PAM50-Subtyping CODE: Check the joelsparker comment](https://www.biostars.org/p/77590/)
+The Code for PAM50-Subtyping is downloaded from [PAM50-Subtyping CODE: Check the joelsparker comment](https://www.biostars.org/p/77590/)
 
 The 'bioclassifier_R' folder contains all the functions and fixed parameters.  You should not need to change anything in this folder, but there are some annotation files, the centroids file, and related information that you may want to be familiar with. 
 
